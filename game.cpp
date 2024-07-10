@@ -1,4 +1,5 @@
 #include "game.hpp"
+#include <iostream>
 
 namespace lb{
     void Game::set_state(const Settings& state){
